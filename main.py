@@ -1,7 +1,7 @@
 import csv
 from allConn import *
 
-file_path = 'int_clean_data.csv' // enter your csv file_name
+file_path = 'int_clean_data.csv' // enter your csv file path
 table_name = file_path[:-4]
 
 def field_converstion():
